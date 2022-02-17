@@ -1,0 +1,39 @@
+
+
+canvas {
+    border: 10px solid black;
+    background-color: rgb(255, 241, 47);
+  }
+  
+  html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(128, 87, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace 
+}
+
+button {
+    font: inherit;
+    background-color: black;
+    color: white;
+    border: 0;
+    padding: 1em;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+ 
+    
+
